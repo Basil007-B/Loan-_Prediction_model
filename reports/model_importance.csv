@@ -1,0 +1,16 @@
+feature,coefficient
+numeric__Credit_History,1.2569227226258808
+numeric__EMIToIncomeRatio,-0.9394728836378129
+numeric__LogTotalIncome,0.6289240807009331
+numeric__ExistingLoans,-0.4109440785046501
+numeric__DebtToIncomeRatio,-0.37341764289416524
+numeric__SavingsToLoanRatio,0.36902201818086283
+numeric__ApplicantAge,0.3637205787712326
+categorical__Property_Area_Semiurban,0.3545297653093065
+numeric__EmploymentStability,0.34525314375741484
+categorical__Dependents_3+,-0.28866596563595104
+categorical__Property_Area_Rural,-0.2788234750966551
+categorical__LoanPurpose_Business,-0.25581087618525183
+categorical__LoanPurpose_Debt Consolidation,0.20248129535514356
+categorical__Dependents_1,0.19773810274809353
+categorical__Education_Graduate,0.19673788355415328
